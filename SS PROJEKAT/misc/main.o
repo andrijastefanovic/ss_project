@@ -1,0 +1,42 @@
+/
+mathAdd undefined undefined 0 1 0
+mathSub undefined undefined 0 1 0
+mathMul undefined undefined 0 1 0
+mathDiv undefined undefined 0 1 0
+my_start my_code notype 0 1 1
+value0 my_data notype 0 1 1
+value1 my_data notype 2 1 1
+value2 my_data notype 4 1 1
+value3 my_data notype 6 1 1
+value4 my_data notype 8 1 1
+value5 my_data notype 10 1 1
+value6 my_data notype 12 1 1
+my_code my_code section 0 0 1
+destinations my_data notype 14 1 1
+my_data my_data section 0 0 1
+//
+my_code mathAdd undefined 0 31 0
+my_code value1 my_data 2 36 0
+my_code mathAdd undefined 0 57 0
+my_code value2 my_data 4 62 0
+my_code destinations my_data 14 88 0
+my_code value3 my_data 6 98 0
+my_code destinations my_data 14 124 0
+my_code value4 my_data 8 129 0
+my_code destinations my_data 14 155 0
+my_code value5 my_data 10 168 0
+my_code value0 my_data 0 173 0
+my_code value1 my_data 2 178 0
+my_code value2 my_data 4 183 0
+my_code value3 my_data 6 188 0
+my_code value4 my_data 8 193 0
+my_code value5 my_data 10 198 0
+my_code value6 my_data 12 203 0
+my_data mathAdd undefined 0 14 1
+my_data mathSub undefined 0 16 1
+my_data mathMul undefined 0 18 1
+my_data mathDiv undefined 0 20 1
+///
+my_code a06000fefea000000004100fa000000000b00632a000000001b0063230f0000000b000040000a000000001b00632a000000001b0063230f7050000b000040000a000000008b00632a00000000bb00632a000000002a010000000700130f002b000040000a000000002b00632a000000002b00632a00000000430f0030000b000040000a000000005b00632a000000019b00632a000000006a0100000007001a0000230f001b000040000a000040000a010040000a020040000a030040000a040040000a050040000a06004000000
+my_data 00000000000000000000000000000000000000000000
+////

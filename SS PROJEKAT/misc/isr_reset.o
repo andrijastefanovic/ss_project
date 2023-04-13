@@ -1,0 +1,9 @@
+/
+my_start undefined undefined 0 1 0
+isr isr section 0 0 1
+isr_reset isr notype 0 1 1
+//
+isr my_start undefined 0 3 0
+///
+isr 50f0000000
+////
